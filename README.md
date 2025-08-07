@@ -1,7 +1,7 @@
-🎯 Phishing para Captura de Senhas do Facebook com SETOOLKIT
+Phishing para Captura de Senhas do Facebook com SETOOLKIT
 Este repositório apresenta um passo a passo para configurar um ataque de phishing utilizando o Social-Engineer Toolkit (SET) no Kali Linux. É destinado a profissionais e estudantes de segurança da informação, exclusivamente para fins educacionais e testes em ambientes controlados e autorizados.
 
-✅ Pré-requisitos
+Pré-requisitos
 Kali Linux atualizado
 
 Acesso root (sudo)
@@ -10,7 +10,7 @@ Conexão de rede funcional
 
 Conhecimentos básicos de redes e terminal
 
-⚙️ Passo a Passo
+Passo a Passo
 1. Obtenha privilégios de superusuário:
 sudo su
 
